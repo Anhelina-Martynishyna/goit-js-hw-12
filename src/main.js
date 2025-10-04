@@ -11,6 +11,7 @@ import {
 
 import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
+import axios from 'axios';
 
 const form = document.getElementById('search-form');
 const input = document.getElementById('search-input');
