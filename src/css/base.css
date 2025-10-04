@@ -30,3 +30,7 @@ main {
 main:has(.back-link) {
   text-align: center;
 }
+#gallery {
+  width: 1200px;
+  margin: 0 auto;
+}
